@@ -11,15 +11,15 @@ This Java-based banking system project offers real-time operations, resembling f
 
 #Structures
 
-App.java - Contains main method and connection to JDBC.
-BankingSystem.java - openAccount, CloseAccount , SQL queries.
-BankAccount.java -ShowAccount , Deposit, WithDraw, MpinChange , TransactionHistory.
-SavingAccount.java - Intialization of class.
-CurrentAccount.java - Intialization of class.
-Loan.java - Intialization of class, LoanPayInstallments.
-Transaction.java - Intialization of class , TransactionHistory.
-Utils.java - writeSavings, WriteCurrent, WriteLoan.
-Displayable.java - Interface Displayble .
+- App.java - Contains main method and connection to JDBC.
+- BankingSystem.java - openAccount, CloseAccount , SQL queries.
+- BankAccount.java -ShowAccount , Deposit, WithDraw, MpinChange , TransactionHistory.
+- SavingAccount.java - Intialization of class.
+- CurrentAccount.java - Intialization of class.
+- Loan.java - Intialization of class, LoanPayInstallments.
+- Transaction.java - Intialization of class , TransactionHistory.
+- Utils.java - writeSavings, WriteCurrent, WriteLoan.
+- Displayable.java - Interface Displayble .
 
 #MENU DRIVEN
 
