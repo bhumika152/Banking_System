@@ -10,28 +10,31 @@ This Java-based banking system project offers real-time operations, resembling f
 - File Handling : SavingFolder, CurrentFolder, LoanFolder
 
 #Structures
-App.java - Contains main method and connection to JDBC
-BankingSystem.java - openAccount, CloseAccount , SQL queries
-BankAccount.java -ShowAccount , Deposit, WithDraw, MpinChange , TransactionHistory
-SavingAccount.java - Intialization of class
-CurrentAccount.java - Intialization of class
-Loan.java - Intialization of class, LoanPayInstallments
-Transaction.java - Intialization of class , TransactionHistory
-Utils.java - writeSavings, WriteCurrent, WriteLoan
-Displayable.java - Interface Displayble 
+
+App.java - Contains main method and connection to JDBC.
+BankingSystem.java - openAccount, CloseAccount , SQL queries.
+BankAccount.java -ShowAccount , Deposit, WithDraw, MpinChange , TransactionHistory.
+SavingAccount.java - Intialization of class.
+CurrentAccount.java - Intialization of class.
+Loan.java - Intialization of class, LoanPayInstallments.
+Transaction.java - Intialization of class , TransactionHistory.
+Utils.java - writeSavings, WriteCurrent, WriteLoan.
+Displayable.java - Interface Displayble .
 
 #MENU DRIVEN
-                                                             Welcome to the Banking System!
-                                                             Are you an existing user? (yes/no)
+
+                                             Welcome to the Banking System!
+                                             Are you an existing user? (yes/no)
                                                              
-                                                            **Banking System Application **
-                                                               1.Display account details
-                                                               2. Deposit the amount
-                                                               3. Withdraw the amount
-                                                               4. Change MPIN
-                                                               5. Pay Loan Installment
-                                                               6. Account Transfer
-                                                               7. Transaction History
-                                                               8. Close Account
-                                                               9. Customer Support
-                                                               10. Exit
+                                               **Banking System Application **
+                                                 1.Display account details
+                                                 2. Deposit the amount
+                                                 3. Withdraw the amount
+                                                 4. Change MPIN
+                                                 5. Pay Loan Installment
+                                                 6. Account Transfer
+                                                 7. Transaction History
+                                                 8. Close Account
+                                                 9. Customer Support
+                                                 10. Exit
+                                                    
